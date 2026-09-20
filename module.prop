@@ -1,0 +1,6 @@
+id=nothing2a_ram_tuner
+name=Nothing 2a RAM Tuner
+version=v1.0.0
+versionCode=1
+author=robipoo
+description=Tunes kernel VM, zRAM and the cached-app freezer for smoother multitasking on the Nothing Phone (2a).
